@@ -1,8 +1,8 @@
 {
-    "name":"aligent/pinpayments",
+    "name":"trexle/magento",
     "type":"magento-module",
-    "homepage":"https://git.assembla.com/aligent.pinpay.git",
-    "description":"Pin Payments magento payment module",
+    "homepage":"https://github.com/Trexle/TrexleMagento",
+    "description":"Trexle magento payment module",
     "repositories": [
         {
             "type": "vcs",
